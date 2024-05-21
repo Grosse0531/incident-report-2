@@ -17,7 +17,7 @@ I will consider a scenario involving a customer of the company that I work for w
 ### Tools Used
 
 
-- TCP protocal (SYN flood attack)
+- TCP protocol (SYN flood attack)
  
 ## Steps
 <a href="https://docs.google.com/document/d/1xEk_arFwlQOto7KEM6gN-sIYriXhP9-lY2ftpBXhS4M/template/preview?resourcekey=0-_ODneeo__mDgK7BTE1FkVA">Ref 1: cybersecurity Incident report 2 template</a>|
